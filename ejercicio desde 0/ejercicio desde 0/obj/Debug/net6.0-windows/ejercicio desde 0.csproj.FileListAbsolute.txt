@@ -1,0 +1,7 @@
+C:\Users\20211919\source\repos\ejercicio desde 0\ejercicio desde 0\obj\Debug\net6.0-windows\ejercicio desde 0.csproj.AssemblyReference.cache
+C:\Users\20211919\source\repos\ejercicio desde 0\ejercicio desde 0\obj\Debug\net6.0-windows\ejercicio_desde_0.Form1.resources
+C:\Users\20211919\source\repos\ejercicio desde 0\ejercicio desde 0\obj\Debug\net6.0-windows\ejercicio desde 0.csproj.GenerateResource.cache
+C:\Users\20211919\source\repos\ejercicio desde 0\ejercicio desde 0\obj\Debug\net6.0-windows\ejercicio desde 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20211919\source\repos\ejercicio desde 0\ejercicio desde 0\obj\Debug\net6.0-windows\ejercicio desde 0.AssemblyInfoInputs.cache
+C:\Users\20211919\source\repos\ejercicio desde 0\ejercicio desde 0\obj\Debug\net6.0-windows\ejercicio desde 0.AssemblyInfo.cs
+C:\Users\20211919\source\repos\ejercicio desde 0\ejercicio desde 0\obj\Debug\net6.0-windows\ejercicio desde 0.csproj.CoreCompileInputs.cache
